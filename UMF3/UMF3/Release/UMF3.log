@@ -1,0 +1,26 @@
+﻿  fragmentationGrid.cpp
+  functions.cpp
+  LU.cpp
+C:\Users\kimev\source\repos\UMF3\UMF3\LU.cpp(130): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Matrix.cpp
+C:\Users\kimev\source\repos\UMF3\UMF3\Matrix.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kimev\source\repos\UMF3\UMF3\Matrix.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kimev\source\repos\UMF3\UMF3\Matrix.cpp(44): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kimev\source\repos\UMF3\UMF3\Matrix.cpp(66): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kimev\source\repos\UMF3\UMF3\Matrix.cpp(187): warning C4018: <: несоответствие типов со знаком и без знака
+  solver.cpp
+  Source.cpp
+C:\Users\kimev\source\repos\UMF3\UMF3\Source.cpp(64): warning C4101: l3: неиспользованная локальная переменная
+C:\Users\kimev\source\repos\UMF3\UMF3\Source.cpp(64): warning C4101: l2: неиспользованная локальная переменная
+C:\Users\kimev\source\repos\UMF3\UMF3\Source.cpp(103): warning C4101: nu: неиспользованная локальная переменная
+C:\Users\kimev\source\repos\UMF3\UMF3\Source.cpp(103): warning C4101: nl: неиспользованная локальная переменная
+C:\Users\kimev\source\repos\UMF3\UMF3\Source.cpp(154): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kimev\source\repos\UMF3\UMF3\Source.cpp(156): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kimev\source\repos\UMF3\UMF3\Source.cpp(158): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kimev\source\repos\UMF3\UMF3\Source.cpp(160): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\kimev\source\repos\UMF3\UMF3\Source.cpp(143): warning C4101: file: неиспользованная локальная переменная
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 865 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  UMF3.vcxproj -> C:\Users\kimev\source\repos\UMF3\Release\UMF3.exe

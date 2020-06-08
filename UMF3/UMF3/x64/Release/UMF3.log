@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\kimev\source\repos\UMF3\UMF3\Source.cpp(64): warning C4101: l3: неиспользованная локальная переменная
+C:\Users\kimev\source\repos\UMF3\UMF3\Source.cpp(64): warning C4101: l2: неиспользованная локальная переменная
+C:\Users\kimev\source\repos\UMF3\UMF3\Source.cpp(103): warning C4101: nu: неиспользованная локальная переменная
+C:\Users\kimev\source\repos\UMF3\UMF3\Source.cpp(103): warning C4101: nl: неиспользованная локальная переменная
+C:\Users\kimev\source\repos\UMF3\UMF3\Source.cpp(143): warning C4101: file: неиспользованная локальная переменная
+  Создание кода
+  1 of 864 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  UMF3.vcxproj -> C:\Users\kimev\source\repos\UMF3\x64\Release\UMF3.exe
